@@ -1,5 +1,28 @@
 # MedMudlet
 
+**** Med Mudlet UI ****
+-----------------------
+This folder contains a package with all of my packages built into a single package.
+
+Use Mudlet Package Manager to Import (IN THIS ORDER):
+1. MDK
+2. EMCOChat
+3. MedMudletUI
+
+- You may need to type: lua resetProfile()
+   > This will get packages to find dependacies and fix any errors that may have happened. 
+- A green window gets loaded from the EMCOChat as an example that you should close.
+- The map/chat windows can be moved if you right click and unlock them. 
+- MMCP needs more scripts to be added to work. I haven't added it into my libraries yet.
+
+1. Med Mudlet UI
+   https://github.com/berood001/MedMudlet/blob/main/MedMudletUI_v1_0_April2024/MedMudletUI.mpackage
+2. MDK
+   https://github.com/berood001/MedMudlet/blob/main/MedTabbedChat/MDK.mpackage
+3. EMCOChat
+   https://github.com/berood001/MedMudlet/blob/main/MedTabbedChat/EMCOChat.mpackage
+
+
 **** Medievia Tabbed Chat ****
 -------------------------------
 
