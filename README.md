@@ -1,3 +1,17 @@
+#SimpleTrade (1/19/25)
+------------------------
+Trade value scripts that will track Under Ocean trading as well as land trading.
+Install: Use Mudlet Package Manager to Import SimpleTrade.mpackage
+Commands:
+simpletrade - help file if you forget all else, remember this
+valstart covered - will get values for covered on land posts
+valstart snail UO - will get values for snail underocean posts
+valstart covered UO - will get values for UO, but covered wagons UO may not work out
+valstart - alone does nothing "Thou must be confused."
+showtp - will open a window that shows values
+hidetp - hides the window, you can also unlock window and exit
+
+
 # MedMudlet  (INTEGRATED IN Kymbahls's MedUI Package)
 
 **** Med Mudlet UI ****
@@ -23,7 +37,7 @@ Use Mudlet Package Manager to Import (IN THIS ORDER):
    https://github.com/berood001/MedMudlet/blob/main/MedTabbedChat/EMCOChat.mpackage
 
 
-**** Medievia Tabbed Chat ****
+**** Medievia Tabbed Chat **** (INTEGRATED IN Kymbahls's MedUI Package)
 -------------------------------
 
 You need to download and import 3 packages using Mudlet Package Manager.
@@ -40,7 +54,7 @@ If something gets messed up.. it happens sometimes when moving around containers
 use "lua resetProfile()" normally fixes things.
 
 
-**** Medievia Buffs N Bars ****
+**** Medievia Buffs N Bars **** (INTEGRATED IN Kymbahls's MedUI Package)(OUTDATED WITH GMCP ADDITION)
 --------------------------------
 https://github.com/berood001/MedMudlet/blob/main/MedBuffsNBars/MedBuffsNBars.mpackage
 Version 1.2
