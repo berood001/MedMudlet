@@ -12,6 +12,7 @@ valstart covered UO - will get values for UO, but covered wagons UO may not work
 valstart - alone does nothing "Thou must be confused."<br/>
 showtp - will open a window that shows values<br/>
 hidetp - hides the window, you can also unlock window and exit<br/>
+(you can value trains, mules, covered, etc..)
 
 
 
