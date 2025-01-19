@@ -5,19 +5,12 @@ Trade value scripts that will track Under Ocean trading as well as land trading.
 Install: Use Mudlet Package Manager to Import SimpleTrade.mpackage
 
 Commands:
-
 simpletrade - help file if you forget all else, remember this
-
 valstart covered - will get values for covered on land posts
-
 valstart snail UO - will get values for snail underocean posts
-
 valstart covered UO - will get values for UO, but covered wagons UO may not work out
-
 valstart - alone does nothing "Thou must be confused."
-
 showtp - will open a window that shows values
-
 hidetp - hides the window, you can also unlock window and exit
 
 
