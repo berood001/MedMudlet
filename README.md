@@ -1,3 +1,30 @@
+# TargetAssist
+
+## TargetAssist by Kronos
+
+Targeting and Alias package
+- Allows you to set multiple modes for your alias so you can quickly switch between.
+- Allows you to create two targets that your alias can focus on.
+
+Target Assist by Kronos
+Allows for user to create alias modes and targets
+targetassist - for list of commands
+tmcreate - create a new mode
+tmdelete - delete a mode
+tmset - sets a modes alias for CURRENT mode (tmset 1 c magic missile)
+tm - change mode (tm mage)
+tmshow - show modes, targets, and save directory
+tt - set a target (tt Kronos)
+Use 1-9 to attack your set target 1. Type 1, 2 3, etc
+Use 11-99 to attack your set target 2. Type 11, 22, 33, etc
+
+*Installation
+In muddlet open Package Manager and read this package.
+No dependancies.
+It will work with CPC for those using multiplay.
+
+
+
 #SimpleTrade (1/19/25)
 ------------------------
 Trade value scripts that will track Under Ocean trading as well as land trading.<br/>
