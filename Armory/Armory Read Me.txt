@@ -1,2 +1,17 @@
-Simple
-Read
+This package will read items you are wearing, in your inventory, and in your locker. It saves to a file 
+which can be read by the CharacterSheet.html file that gets loaded when this package is installed. No
+need to search for it, a link is provided after running one of these commands:
+apparmory - reads your equipment and saves
+applocker - reads your locker and saves *you have to be next to your locker of course or its just blank*
+appinv - reads your inventory and saves
+
+* You will need to identify items first, else you will just get the name and unidentified
+* You should always have detect invisible on before running, else you will have missing items OR it may just say "something"
+
+Why use this? If you are running around with 9 characters and 3-4 alts holding gear the reason is pretty clear. It's difficult to quickly
+search through all your gear. 
+
+Next Build
+Later on I'll probably add some lite search/filter functions that allow you to search for item names, stats, keywords, etc across
+multiple characters. Many of the stats are seperated out into their own fields in JSON format rather than just a string of data, this
+makes some more useful search and compare functions available later.
